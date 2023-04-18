@@ -1,0 +1,373 @@
+{11}{82}movie info: XVID  704x396 23.975fps 175.2 MB|/SubEdit b.4043 (http://subedit.prv.pl)/
+{65}{106}{C:$999966}{f:Bookman Old Style}Mrok powoli kr¹g zatacza
+{106}{186}{C:$999966}{f:Bookman Old Style}Naznacza nas przysiêg¹ krwi
+{187}{299}{C:$999966}{f:Bookman Old Style}Nie pozwolê, by ktokolwiek na drodze stan¹³ mi
+{303}{414}{C:$999966}{f:Bookman Old Style}Nigdy
+{416}{433}{C:$0000FF}{f:Bookman Old Style}Death note
+{434}{451}{C:$0000FF}{f:Bookman Old Style}DEath note
+{452}{469}{C:$0000FF}{f:Bookman Old Style}DEAth note
+{470}{487}{C:$0000FF}{f:Bookman Old Style}DEATh note
+{488}{505}{C:$0000FF}{f:Bookman Old Style}DEATH note
+{506}{523}{C:$0000FF}{f:Bookman Old Style}DEATH Note
+{524}{541}{C:$0000FF}{f:Bookman Old Style}DEATH NOte
+{542}{559}{C:$0000FF}{f:Bookman Old Style}DEATH NOTe
+{560}{575}{C:$0000FF}{f:Bookman Old Style}DEATH NOTE
+{632}{735}{C:$999966}{f:Bookman Old Style}W owocu tym zobaczy³em przysz³oœæ sw¹
+{741}{838}{C:$999966}{f:Bookman Old Style}Tak¹ sam¹ jak moje sny
+{838}{949}{C:$999966}{f:Bookman Old Style}Tak doskona³¹
+{1006}{1084}{C:$999966}{f:Bookman Old Style}Kres koñca widzia³em
+{1084}{1213}{C:$999966}{f:Bookman Old Style}Którego zawsze po¿¹da³em
+{1251}{1290}{C:$999966}{f:Bookman Old Style}Mrok powoli kr¹g zatacza
+{1290}{1368}{C:$999966}{f:Bookman Old Style}Naznacza nas przysiêg¹ krwi
+{1368}{1480}{C:$999966}{f:Bookman Old Style}Nie pozwolê, by ktokolwiek na drodze stan¹³ mi
+{1495}{1604}{C:$999966}{f:Bookman Old Style}Kiedyœ zobaczysz, poka¿ê ci
+{1616}{1697}{C:$999966}{f:Bookman Old Style}Jak nasz œwiat lœni
+{1697}{1834}{C:$999966}{f:Bookman Old Style}Ten œwiat
+{1838}{1909}{C:$0000FF}{f:Bookman Old Style}..:: Anime Garden ::.. |{f:Bookman Old Style} T³umaczenie: Jasmine
+{1892}{1929}{C:$0000FF}{f:Bookman Old Style}..:: Anime Garden ::.. |{f:Bookman Old Style} Korekta: KAT, Quithe, Wanderer
+{1942}{1990}Pracownicy ICPO...
+{1994}{2048}...mówi L.
+{2021}{2163}Podejrzewam, ¿e sprawc¹ jest Japoñczyk.
+{2158}{2191}{y:i}Kira.
+{2185}{2305}{y:i}Chyba wiem, dlaczego to robisz.
+{2314}{2386}{y:i}Jednak¿e to, co robisz...
+{2377}{2405}{y:i}...jest z³e!
+{2406}{2450}To drañ!
+{2447}{2485}{y:i}Zabij mnie!
+{2480}{2525}Jestem sprawiedliwoœci¹!
+{2515}{2568}Chroniê s³abszych | i tworzê idealny œwiat!
+{2569}{2651}Bêdê bogiem nowego œwiata!
+{2653}{2677}L...
+{2678}{2700}Kira...
+{2711}{2793}Znajdê ciê i pokonam!
+{2793}{2809}Ja jestem...
+{2813}{2833}Ja jestem...
+{2850}{2877}...sprawiedliwoœci¹!
+{2881}{2950}{C:$A3A3A3}{f:Book Antiqua}Wymiana
+{3040}{3084}Powtórzmy to, co ju¿ wiemy.
+{3084}{3113}Tak jest.
+{3130}{3243}Do tej pory otrzymaliœmy 3029 | zg³oszeñ telefonicznych.
+{3243}{3324}Wiêkszoœæ z nich pochodzi³a | od ciekawskich obywateli, jednak...
+{3324}{3429}...14 rozmówców twierdzi³o, | ¿e znaj¹ lub widzieli Kirê.
+{3445}{3533}Podali nam jego opis...
+{3533}{3628}...który umieœci³em w raporcie. | Jednak nie s¹dzê, by by³ on wiarygodny.
+{3642}{3762}21 rozmówców poda³o siê za Kirê.
+{3900}{3964}Nie chc¹c pomin¹æ ¿adnej mo¿liwoœci...
+{3952}{4036}...wys³uchaliœmy ich zeznañ | i umieœciliœmy w naszych aktach.
+{4085}{4130}Teraz ofiary.
+{4130}{4144}Dobrze.
+{4180}{4292}Uda³o nam siê okreœliæ | szczegó³y dotycz¹ce ofiar...
+{4297}{4411}...czyli wszystkich przestêpców | zmar³ych w Japonii na zawa³ serca.
+{4447}{4465}Ustaliliœmy...
+{4480}{4577}...czas zgonu, który | szczególnie zainteresowa³ L.
+{4577}{4669}Ofiary ginê³y w ci¹gu tygodnia | miêdzy godzin¹ 16 a 2 w nocy czasu japoñskiego...
+{4682}{4774}...z czego zgony miêdzy | 20 a pó³noc¹ stanowi³y 68%.
+{4790}{4812}Ponadto...
+{4812}{4849}...w weekendy i œwiêta narodowe...
+{4849}{4924}...zgony nastêpowa³y | miêdzy godzin¹ 11 a pó³noc¹.
+{4952}{5004}Interesuj¹ce informacje.
+{5025}{5087}S¹dz¹c po czasie zgonów...
+{5105}{5171}...istnieje mo¿liwoœæ, | ¿e Kira jest uczniem.
+{5210}{5256}To wci¹¿ teoria.
+{5272}{5328}Bazuj¹c na tym, | ¿e zabija przestêpców...
+{5328}{5418}...wiemy, ¿e dzia³a pod wp³ywem | silnego poczucia sprawiedliwoœci.
+{5418}{5447}Co oznacza...
+{5447}{5501}...¿e wyobra¿a sobie, i¿ jest bogiem.
+{5525}{5595}To bardzo dziecinne podejœcie.
+{5602}{}Ale... to niemo¿liwe.
+{5639}{5691}To wszystko jedynie przypuszczenia...
+{5691}{5723}...ale...
+{5723}{5774}...proszê, nie s¹dŸcie...
+{5774}{5823}...¿e uczeñ nie by³by do tego zdolny.
+{5832}{5890}Musimy przyj¹æ ka¿d¹ mo¿liwoœæ.
+{5891}{5960}To pomo¿e nam odnaleŸæ Kirê.
+{5987}{6030}Proszê kontynuowaæ sprawozdanie.
+{6061}{6092}Tak...
+{6112}{6156}Coœ jeszcze?
+{6175}{6206}T-Tak!
+{6206}{6239}O co chodzi, Matsuda?
+{6280}{6404}Mimo wszystko Kira przyczyni³ siê | do czegoœ dobrego.
+{6404}{6443}Na ca³ym œwiecie...
+{6463}{6519}...a zw³aszcza w Japonii...
+{6519}{6565}...liczba pope³nionych przestêpstw...
+{6565}{6597}...diametralnie zmala³a.
+{6676}{6701}Có¿...
+{6701}{6784}Mo¿na siê by³o tego spodziewaæ.
+{6800}{6827}Ktoœ jeszcze?
+{6910}{6994}To chyba wszystko na dziœ, L.
+{7009}{7043}Dziêkujê za wasz¹ pracê.
+{7043}{7114}Zrobiliœmy krok do przodu.
+{7117}{7141}A teraz...
+{7141}{7192}...mam do was kolejn¹ proœbê.
+{7208}{7230}Zwi¹zan¹...
+{7230}{7286}...z ofiarami, mediami i Internetem.
+{7305}{7344}Chcia³bym, abyœcie...
+{7344}{7415}...jeszcze raz sprawdzili, | jak japoñskie media przedstawia³y ofiary.
+{7415}{7462}A mianowicie, chcê wiedzieæ...
+{7473}{7518}...czy reporta¿e zawiera³y zdjêcia...
+{7518}{7578}...lub materia³y filmowe ukazuj¹ce | twarze zmar³ych przestêpców.
+{7600}{7636}Dziêkujê za pomoc.
+{7698}{7722}Szefie!
+{7755}{7799}Musi pan byæ zmêczony.
+{7815}{7870}Tak. Dziêkujê.
+{7870}{7923}Efekt kolejnej nieprzespanej nocy.
+{8015}{8073}Gdy mówi³em o diametralnie malej¹cej | iloœci przestêpstw...
+{8073}{8097}Có¿...
+{8097}{8146}Z pewnoœci¹ wszyscy to zauwa¿yli.
+{8162}{8200}Przepraszam.
+{8200}{8255}O czym ty mówisz?
+{8243}{8320}Fakty s¹ faktami i trzeba o nich przypominaæ. 
+{8333}{8397}Zw³aszcza, gdy stanowi¹ niewygodny temat.
+{8437}{8469}Oczywiœcie...
+{8469}{8521}...problemem by³oby, gdybyœ powiedzia³:
+{8523}{8587}"Dziêki Kirze przestêpczoœæ spad³a...
+{8587}{8652}...wiêc go chwalmy!"
+{8652}{8711}Ja... nigdy nie pochwala³em tego mordercy!
+{8733}{8762}¯artowa³em!
+{8804}{8857}Jesteœ niesamowity, Raito!
+{8871}{8925}Rozumiesz ju¿?
+{8946}{8986}Hmm, czêœciowo.
+{9045}{9081}Tata wróci³!
+{9094}{9149}Witaj w domu, kochanie!
+{9171}{9208}Wczeœnie dziœ wróci³.
+{9208}{9228}Hej!
+{9228}{9289}Przynajmniej ostatnie | zadanie zrób sama!
+{9305}{9350}Po kolacji, dobrze?
+{9357}{9383}Rany...
+{9429}{9507}Pomagasz siostrze w lekcjach, | jak gdyby nigdy nic.
+{9519}{9544}Tak.
+{9544}{9603}Bo jest coœ, dziêki czemu jestem bezpieczny...
+{9603}{9645}...nawet jeœli policja wykona ruch.
+{9720}{9749}Witaj w domu.
+{9760}{9789}Tato.
+{9790}{9830}Tak, dobrze byæ ju¿ w domu.
+{10027}{10057}Raito...
+{10057}{10092}...jak tam w szkole?
+{10099}{10123}Co?
+{10123}{10154}Tak, jak zawsze.
+{10154}{10207}Jak zwykle jest najlepszy!
+{10207}{10258}Mój wspania³y brat!
+{10258}{10303}Tak, mój wspania³y syn!
+{10316}{10345}Tato...
+{10343}{10382}...wygl¹dasz na zmêczonego.
+{10378}{10400}Tak...
+{10418}{10466}To poufne, ale...
+{10466}{10514}...ta sprawa jest ciê¿ka.
+{10544}{10588}Teraz ³apiê.
+{10627}{10672}Widzê, ¿e twój ojciec | daje ci przewagê.
+{10690}{10768}Jako detektyw nadzoruj¹cy NPA!
+{10768}{10784}Tak.
+{10795}{10870}Mogê siê w³amywaæ do komputera ojca...
+{10870}{10933}...nie zostawiaj¹c œladu.
+{10954}{11014}Ca³y czas wiem jak przebiega œledztwo.
+{11037}{11056}Oto jest.
+{11390}{11433}Wiêc policja domyœla siê ju¿...
+{11433}{11510}...¿e Kira jest uczniem.
+{11558}{11601}To chyba Ÿle, nie s¹dzisz?
+{11754}{11864}"Osoba umrze w sposób, jaki opiszesz, |w przeci¹gu 40 sekund od zapisania jej imienia."
+{11884}{11974}"Je¿eli przyczyna œmierci nie zostanie | sprecyzowana, osoba umrze na zawa³ serca."
+{11974}{12123}"Po podaniu przyczyny œmierci, szczegó³y powinny | zostaæ zapisane w przeci¹gu 6 minut i 40 sekund."
+{12138}{12180}Prawda, Ryuuku?
+{12184}{12214}I co z tego?
+{12227}{12303}Wiêc jeœli podam "zawa³ serca" | jako przyczynê œmierci...
+{12303}{12345}...mogê dodaæ szczegó³y...
+{12345}{12406}...takie jak czas zgonu.
+{12432}{12520}Chyba siê trochê z nimi pobawiê, Ryuuku.
+{13193}{}Co siê sta³o?
+{13226}{}Numer 148?!
+{13257}{13280}Trzymaj siê!
+{13680}{13708}Co?!
+{13715}{13826}Na zawa³ serca zginê³y | wczoraj 23 osoby?!
+{13826}{13851}T-Tak...
+{13869}{13935}Przedwczoraj te¿ by³y 23 zgony...
+{13935}{14009}...dok³adnie co godzinê.
+{14021}{14100}Dwa dni z rzêdu w tym tygodniu.
+{14100}{14177}A wiêc to niekoniecznie uczeñ.
+{14177}{14248}Ale ka¿dy mo¿e opuœciæ | szko³ê na parê dni.
+{14252}{14277}To nie to!
+{14315}{14369}To prawda, ¿e nie musi byæ uczniem.
+{14380}{14442}Ale Kira stara siê przekazaæ nam coœ innego.
+{14460}{14512}Dlaczego zabójstwa | nastêpowa³y co godzinê?
+{14512}{14654}I dlaczego byli to wiêŸniowie, o których œmierci | dowiedzielibyœmy siê natychmiast?
+{14678}{14720}Kira chce nam uzmys³owiæ...
+{14737}{14836}...¿e mo¿e ustalaæ czas zgonu | wed³ug w³asnego uznania.
+{14932}{14961}Jednak¿e co innego mnie martwi.
+{14992}{15069}Zaraz po tym jak uznaliœmy, | ¿e Kira mo¿e byæ uczniem...
+{15069}{15148}...morderstwa zaczê³y nastêpowaæ | w sposób obalaj¹cy moj¹ teoriê.
+{15152}{15189}Przypadek?
+{15194}{15216}Nie.
+{15216}{15267}Zbyt du¿a zbie¿noœæ w czasie.
+{15293}{15361}Czy¿by Kira w jakiœ sposób | zdobywa³ informacje znane tylko policji?
+{15400}{15446}To oczywiste wyzwanie...
+{15454}{15490}...skierowane do mnie.
+{15531}{15570}Za³o¿ê siê, ¿e L...
+{15570}{15605}...teraz siê miota.
+{15621}{15730}Mam w zanadrzu jeszcze 50 przestêpców, | których zostawi³em na tak¹ okazjê.
+{15730}{15752}Tak?
+{15764}{15896}Teraz L zacznie podejrzewaæ | ludzi z policji.
+{15914}{15998}W jakiœ sposób Kira zdobywa | informacje dotycz¹ce œledztwa.
+{16018}{16077}Nie mogê tego zignorowaæ.
+{16161}{16216}Jaki cel ma Kira?
+{16231}{16300}Co zamierza?
+{16342}{16386}Ale nie ³apiê tego.
+{16386}{16520}Czy œwiadomoœæ, ¿e masz wtyki w policji | nie bêdzie gorsza, ni¿ to, ¿e jesteœ uczniem?
+{16534}{16555}Robiê to...
+{16585}{16657}...by znaleŸæ i zabiæ L.
+{16657}{16696}Co masz na myœli?
+{16710}{16749}W ludzkim spo³eczeñstwie...
+{16749}{16848}...niewiele jest osób, | które sobie ufaj¹.
+{16848}{16898}Tak samo jest w policji.
+{16925}{16966}Zw³aszcza jeœli chodzi o policjê i L.
+{16971}{17034}Oni równie¿ sobie nie ufaj¹. | I nigdy nie ufali.
+{17052}{17131}Kto zaufa³by cz³owiekowi, który ukrywa | przed wszystkimi swoje nazwisko i twarz?
+{17144}{17211}Teraz, gdy L wie, ¿e mam | dostêp do danych policji...
+{17211}{17312}...zacznie mnie szukaæ wewn¹trz NPA.
+{17334}{17380}A gdy do tego dojdzie...
+{17380}{17455}...gliniarze siê wœciekn¹.
+{17471}{17586}L wspó³pracuje z policj¹, | by mnie z³apaæ.
+{17597}{17624}A w ukryciu...
+{17640}{17727}...L bêdzie szpiegowa³ policjê, | a policja spróbuje dopaœæ jego!
+{17757}{17805}To nie ja odnajdê L.
+{17823}{17882}Zajmie siê tym policja.
+{17882}{17942}A wtedy ja go wyeliminujê!
+{17959}{18090}{C:$999966}{f:Bookman Old Style}..:: Anime Garden ::.. |{f:Bookman Old Style} T³umaczenie: Jasmine
+{18092}{18193}{C:$999966}{f:Bookman Old Style}..:: Anime Garden ::.. |{f:Bookman Old Style} Korekta: KAT, Quithe, Wanderer
+{18225}{18257}Co to ma byæ, u diab³a?!
+{18255}{18300}{y:i}Rezygnacja
+{18312}{18361}Jak pan widzi, to nasze rezygnacje.
+{18400}{18505}Przydzieli nas pan do innej sprawy | albo odejdziemy z NPA.
+{18518}{18560}Ale dlaczego?
+{18568}{18644}Dlaczego? Poniewa¿ ceniê swoje ¿ycie.
+{18653}{18689}Wed³ug L...
+{18689}{18810}...Kira u¿ywa mocy paranormalnych do zabijania ludzi | bez bezpoœredniego kontaktu z nimi, prawda?
+{18817}{18933}Gdybym nim by³, pozby³bym siê ludzi, | którzy mnie œcigaj¹.
+{18933}{19001}Bo jeœli go z³apiemy, | dostanie wyrok œmierci.
+{19001}{19163}Podczas programu telewizyjnego | L prowokowa³ Kirê, by go zabi³.
+{19180}{19271}Ale nie ujawni³ swojego | imienia ani twarzy.
+{19280}{19437}PóŸniej kaza³ nam sprawdziæ, w jaki sposób | japoñskie media przedstawia³y ofiary.
+{19444}{19556}Chcia³ wiedzieæ, czy pokazywano zdjêcia | lub materia³y filmowe ujawniaj¹ce ich twarze.
+{19577}{19713}Có¿, by³y! Twarz ka¿dej z ofiar | pokazywano w japoñskich reporta¿ach!
+{19733}{19909}Przez to, ¿e musimy mieæ identyfikatory | z danymi i zdjêciem, nie mo¿emy ukryæ to¿samoœci.
+{19925}{19977}Ca³y czas jesteœmy na widoku!
+{19992}{20076}Boimy siê, ¿e w ka¿dej chwili | Kira móg³by nas zabiæ.
+{20102}{20169}Dlatego te¿ prosimy o przeniesienie.
+{20188}{20222}Przepraszamy.
+{20243}{}Hej! Wy!
+{20298}{20330}Czekajcie chwilê!
+{20460}{20480}Co?!
+{20480}{20554}A teraz, aby rozwi¹zaæ to zadanie...
+{20588}{20757}{y:i}...zastêpujemy równanie |{y:i}kwadratowe x^2 = X...
+{20772}{20913}{y:i}...aby pokazaæ, ¿e X ma dwa rozwi¹zania.
+{20940}{20970}{y:i}Wartoœæ, która...
+{21058}{21133}FBI wkroczy³o do Japonii 4 dni temu...
+{21133}{21221}...i rozpoczê³o w³asne œledztwo | wœród pracowników policji.
+{21221}{21261}To ta lista?
+{21261}{21277}Tak.
+{21303}{21436}Tylko w NPA dostêp do najwa¿niejszych | informacji ma 141 osób.
+{21447}{21511}A jedna z tych osób...
+{21517}{21570}...lub ktoœ jej bliski...
+{21625}{21671}...to z pewnoœci¹ Kira.
+{21777}{21840}Raito.
+{21808}{21834}Masz chwilê?
+{21842}{21918}Mówi³em ci, ¿ebyœ nie odzywa³ siê | do mnie poza moim pokojem.
+{21932}{21965}Ile razy mam to powtarzaæ?
+{21974}{22117}Có¿, i tak to powiem. Jeœli nie chcesz | tego s³uchaæ, zatkaj uszy.
+{22117}{22180}Nie mam nic przeciwko tobie, Raito.
+{22180}{22272}W³aœciwie jesteœ najlepsz¹ osob¹, | która mog³a podnieœæ mój notatnik.
+{22275}{22407}Dlatego muszê tkwiæ tu dopóki notatnik siê | nie skoñczy lub ciebie nie wykoñcz¹.
+{22418}{22520}Ale nie jestem po niczyjej stronie.
+{22558}{22612}Wiedzia³em, Ryuuku.
+{22635}{22748}Dlatego nie bêdê ci mówi³, | czy postêpujesz dobrze, czy Ÿle.
+{22748}{22810}Nie powiem s³owa na ten temat.
+{22826}{22906}Jednak czasem pogadam z tob¹ | jako twój wspó³lokator.
+{22924}{}O co chodzi, Ryuuku?
+{22961}{23007}Dlaczego mówisz mi to teraz?
+{23020}{23048}To do ciebie niepodobne.
+{23063}{23180}To, co zamierzam ci powiedzieæ nie oznacza, | ¿e jestem sojusznikiem Kiry.
+{23180}{23258}Po prostu mnie to wkurza.
+{23259}{23290}Mo¿esz przejœæ do sedna?
+{23367}{23440}Jakiœ cz³owiek za tob¹ idzie.
+{23832}{23957}To irytuj¹ce. Oczywiœcie | on mnie nie widzi...
+{23977}{24109}...ale odk¹d za tob¹ chodzê, | czujê siê obserwowany.
+{24126}{24162}Tak, to jak wrzód na ty³ku.
+{24177}{24238}Nied³ugo siê go pozbêdê, Ryuuku.
+{24310}{24353}Kim on jest?
+{24392}{24465}Czy L ju¿ podejrzewa policjê?
+{24523}{24614}Jeœli zamierza ich sprawdzaæ, | to bêdzie d³uga lista.
+{24614}{24765}Nawet gdyby by³o ich tylko 50, | szanse, aby podejrzewano mnie, s¹ zerowe.
+{24778}{24866}Jestem zwyk³ym uczniem.
+{24880}{25004}Jeœli jednak pozwolê im na kontynuowanie | œledztwa miesi¹cami, taka mo¿liwoœæ siê pojawi.
+{25025}{25086}Ale najpierw muszê poznaæ | imiê mojego przeœladowcy.
+{25086}{25153}Jeœli je zdobêdê, | poradzê sobie ze wszystkim.
+{25196}{25231}Raito.
+{25252}{25303}Mam dla ciebie dobr¹ wiadomoœæ.
+{25324}{25455}Istniej¹ dwie ró¿nice miêdzy Shinigami | a ludŸmi posiadaj¹cymi Notes Œmierci.
+{25480}{25600}Czy wiesz, dlaczego Shinigami wpisuj¹ | imiona ludzi do tych notatników?
+{25625}{25687}Sk¹d mia³bym wiedzieæ?
+{25687}{25750}Gadatliwy dziœ jesteœ, Ryuuku.
+{25767}{25843}Dlatego, ¿e Shinigami maj¹ | dodatkowe ¿ycie dziêki ludziom.
+{25878}{25916}Dodatkowe ¿ycie?!
+{25916}{26006}Powiedzmy, ¿e pewien cz³owiek | normalnie do¿y³by 60 lat.
+{26006}{26071}Jeœli Shinigami zapisze | jego œmieræ w wieku 40 lat...
+{26097}{26172}60 minus 40 daje 20.
+{26172}{26303}Te 20 lat z ludzkiego œwiata | dodaje siê do czasu ¿ycia Shinigami.
+{26333}{26395}I tak, dopóki bêd¹ wpisywaæ| imiona do notesu...
+{26395}{26549}...mo¿esz strzeliæ im w g³owê | lub wbiæ nó¿ w serce, a i tak nie umr¹.
+{26549}{26701}Ale zapisuj¹c imiona ludzi w Notesie Œmierci, | Raito, nie przed³u¿ysz swojego ¿ycia.
+{26701}{26810}To pierwsza ró¿nica miêdzy Shinigami | a cz³owiekiem u¿ywaj¹cym Notesu Œmierci.
+{26849}{26963}To coœ, czego nigdy nie wiedzieliœmy |o Shinigami. Ca³kiem interesuj¹ce.
+{26975}{27062}Druga ró¿nica mo¿e byæ dla | ciebie bardziej interesuj¹ca, Raito.
+{27090}{27192}Dotyczy skracania ¿ycia.
+{27192}{27232}Skracania?
+{27262}{27389}My, Shinigami, poznajemy imiê cz³owieka | i d³ugoœæ jego ¿ycia patrz¹c na niego.
+{27389}{27431}Jak myœlisz, dlaczego tak jest?
+{27452}{27492}Có¿, oczy Shinigami...
+{27515}{27635}...potrafi¹ dojrzeæ w czyjejœ g³owie | jego imiê i d³ugoœæ ¿ycia.
+{27650}{27705}Imiê i d³ugoœæ ¿ycia?
+{27731}{27839}Oczywiœcie nawet teraz widzê | twoje imiê i d³ugoœæ ¿ycia, Raito.
+{27852}{28030}Jeœli zamieniê liczby na czas ludzki, | bêdê dok³adnie wiedzia³, ile ci zosta³o.
+{28048}{28119}Jednak mimo wielkich ust | nigdy ci tego nie powiem.
+{28187}{28310}Dlatego Shinigami zawsze | znaj¹ imiê osoby, któr¹ zabijaj¹...
+{28310}{28433}...oraz iloœæ dodatkowego ¿ycia, | któr¹ dziêki temu zyskaj¹.
+{28448}{28487}Nasze oczy s¹ inne.
+{28487}{28560}To najwiêksza ró¿nica miêdzy tob¹ i mn¹.
+{28600}{28660}Shinigami mo¿e zawrzeæ uk³ad...
+{28661}{28717}...z cz³owiekiem, który podniós³ jego Notes Œmierci.
+{28734}{28793}Dziêki niemu Shinigami mo¿e | oddaæ mu swoje oczy.
+{28826}{28908}Tak¹ wymianê ustalono dawno temu.
+{28929}{28950}Wymianê?
+{28990}{29053}Cen¹ za oczy Shinigami jest...
+{29102}{29194}...po³owa ¿ycia pozosta³ego cz³owiekowi.
+{29220}{29291}Po³owa pozosta³ego ¿ycia...
+{29291}{29318}Tak.
+{29325}{29437}Wiêc jeœli masz 50 lat ¿ycia, | zostanie ci 25.
+{29438}{29496}A jeœli masz tylko rok, | zostanie ci 6 miesiêcy.
+{29507}{29692}Poniewa¿ nie jesteœ po niczyjej stronie, | nie podasz mi imienia osoby, któr¹ chcê zabiæ.
+{29707}{29790}Czyli nie pomo¿esz mi.
+{29812}{29841}To chcia³eœ powiedzieæ.
+{29850}{29954}Tak. To jedna z zasad Œwiata Shinigami.
+{29976}{30030}Powtórzê jeszcze raz.
+{30030}{30124}Oddaj mi po³owê ¿ycia, które ci zosta³o, | a dostaniesz oczy Shinigami.
+{30137}{30177}A dziêki nim...
+{30184}{30264}...bêdê móg³ poznawaæ imiona | ludzi patrz¹c na nich.
+{30282}{30360}Bêdê móg³ u¿ywaæ Notesu Œmierci | jeszcze efektywniej.
+{30372}{30470}Wiêc co zrobisz, Raito?
+{30619}{30692}{C:$A3A3A3}{f:Book Antiqua}Ci¹g dalszy nast¹pi
+{30701}{30825}{C:$999966}{f:Bookman Old Style}Mia³em sen, którego nikt nie móg³by mieæ
+{30825}{30950}{C:$999966}{f:Bookman Old Style}Odrzuci³em wszystko to, co by³o mi zbêdne
+{30957}{31043}{C:$999966}{f:Bookman Old Style}Nie potrafiê siê pozbyæ tych myœli
+{31043}{31165}{C:$999966}{f:Bookman Old Style}Lêgn¹ siê one we mnie
+{31167}{31317}{C:$999966}{f:Bookman Old Style}Mimo ¿e wci¹¿ nie wiem,|{f:Bookman Old Style} czy to rzeczywistoœæ
+{31317}{31440}{C:$999966}{f:Bookman Old Style}A me stopy zdobi¹ kajdany poœwiêcenia
+{31448}{31568}{C:$999966}{f:Bookman Old Style}Wci¹¿ nie potrafiê wyraziæ swych uczuæ
+{31568}{31748}{C:$999966}{f:Bookman Old Style}Lecz moje serce naprawdê kocha
+{31760}{31873}{C:$999966}{f:Bookman Old Style}"K³amstwa" "Strach" "Oszustwa" a nawet "¯al"
+{31873}{31995}{C:$999966}{f:Bookman Old Style}Nie z³ami¹ mnie one
+{32007}{32128}{C:$999966}{f:Bookman Old Style}¯adne z³o mnie nie pokona ani nie oszuka
+{32140}{32264}{C:$999966}{f:Bookman Old Style}Bo to ja jestem tutaj tym, który oszukuje
+{32276}{32358}{C:$0000FF}{f:Bookman Old Style}..:: Anime Garden ::.. |{C:$0000FF}{f:Bookman Old Style}www.animegarden.prv.pl
+{32395}{32491}Niesamowite, ¿e wszystko | idzie zgodnie z moim zapisem.
+{32518}{32662}Dok³adnie o 11:45, | tak jak zaplanowa³em...
+{32616}{}...Notes Œmierci wszystko spe³ni!
+{32662}{32725}{C:$A3A3A3}{f:Book Antiqua}..:: Death Note - ep03 ::.. |{f:Book Antiqua} ..:: Poszukiwanie ::..
+
